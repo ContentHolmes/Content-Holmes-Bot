@@ -13,7 +13,7 @@ This can be done by:
 	
 	$ npm install
  
-3. Install the mircrosoft bot emulator. You require this to connect to the bot and run it.
+3. Install the [mircrosoft bot emulator](https://emulator.botframework.com/). You require this to connect to the bot and debug it.
 
 # Project Structure
 
