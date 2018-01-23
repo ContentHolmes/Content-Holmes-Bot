@@ -24,7 +24,9 @@ Library | Description
 productivity.js | It houses all dialogs relevant to the productivity module of Content Holmes. This includes blocking, unblocking, sessioning etc.
 report.js | It houses all dialogs relevant to fetching reports and details on the user's browsing activity
 user.js | It contains all dialogs that either change or retrieve user's personal information
-utilities.js | It consists of dialogs that can help the users navigate the bot more easily.
+utilities.js | It consists of all dialogs that can help the users navigate the bot more easily.
+
+## Contributing
 
 **We love contributions!**
 
